@@ -1,5 +1,3 @@
-Container para proyectos web
-
 Este entorno de desarrollo cuenta con: 
 
   - PostgreSQL
